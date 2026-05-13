@@ -1,11 +1,10 @@
 # Stock & Crypto Tracker
 
-A command-line stock and crypto dashboard built with Python. Look up real-time stock data, compare multiple tickers side by side, track 5-day price trends, and check live crypto prices — all from your terminal.
-
+To go along with my interests in data, finance, coding, and AI, I built a command-line stock and crypto dashboard in Python. It pulls real-time stock data, compares multiple tickers side by side, tracks 5-day price trends, and displays live crypto prices, all from your terminal.
 ## Features
 
 - Real-time stock price, change, volume, and market data
-- Company overview including sector, P/E ratio, EPS, beta, and analyst target
+- Company overview, including sector, P/E ratio, EPS, beta, and analyst target
 - Side-by-side comparison of multiple stocks
 - 5-day price trend with daily close and volume
 - Live crypto prices with 52-week range and market cap
